@@ -1,2 +1,4 @@
 # LokiuRespublika
-A website with basic Backend functionality. Inspired by LOKIS and Respublika theatrical performances
+A website with basic Backend functionality. Inspired by LOKIS and Respublika theatrical performances.
+
+All images, the video and the background special effect belong to their respective owners. This project was made as my final exam during my Full Stack course. I chose to incorporate more of Frontend (the design, the video, the moving background) because I already did a project in my university, where I made a terrible design, but I did a lot more of Backend things - user registration, login, security checks, secure password storing and so on. During this project, I wanted to make something I would like to use and wouldn't be ashamed of showing to someone. In any case, if a site has a terrible user interface/design, no one is even going to use it. So I tried to make at least somewhat appealing
